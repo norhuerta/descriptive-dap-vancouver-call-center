@@ -1,5 +1,4 @@
-# descriptive-dap-vancouver-call-center
-# Data Analytic Platform (DAP) for the Vancouver Call Center
+# Descriptive Data Analytic Platform (DAP) for the Vancouver Call Center
 
 ## Project Description
 The Data Analytic Platform (DAP) for the Vancouver Call Center is a two-phase project aimed at enhancing the operational efficiency and safeguarding the data integrity of the city’s call center services. This project leverages advanced data analytics, cloud infrastructure, and AWS tools to improve service delivery, transparency, and compliance with data governance regulations.
